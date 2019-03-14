@@ -1,0 +1,19 @@
+{
+  "name": "gitit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "inquirer": "^6.2.0",
+    "node-rsa": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "address": "node index.js",
+    "test": "node decrypt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
